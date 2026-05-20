@@ -1,8 +1,6 @@
 """
-===========================================
   Reinforcement Learning: Q-Learning Agent
   Environment: FrozenLake (4x4 Grid World)
-===========================================
 
 PROBLEM:
   An agent starts at S (Start) and must reach G (Goal)
